@@ -1,37 +1,86 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Jocelyngl/Web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# This file contains configuration flags to customize your site
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Name of your site (displayed in the header)
+name: Jocelyn Guerrero Lemus 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Short bio or description (displayed in the header)
+description: Social Data Analytics and Research Masters student at the University of Texas at Dallas
 
-```markdown
-Syntax highlighted code block
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
-# Header 1
-## Header 2
-### Header 3
+#
+# Flags below are optional
+#
 
-- Bulleted
-- List
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email:gjocelyn617@gmail.com
+  facebook:
+  flickr:
+  github:https://github.com/Jocelyngl
+  instagram:
+  linkedin:https://www.linkedin.com/in/jocelyngl/
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: 
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus:
 
-[Link](url) and ![Image](src)
-```
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url:Jocelyngl.github.io
 
-### Jekyll Themes
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: ""
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jocelyngl/Web/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#
+# !! You don't need to change any of the configuration flags below !!
+#
 
-### Support or Contact
+permalink: /:title/
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# The release of Jekyll Now that you're using
+version: v1.2.0
+
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
