@@ -1,9 +1,7 @@
 
-# This file contains configuration flags to customize your site
 
 
-# Name of your site (displayed in the header)
-name: Jocelyn Guerrero Lemus 
+# Jocelyn Guerrero Lemus 
 
 # Short bio or description (displayed in the header)
 description: Social Data Analytics and Research Masters student at the University of Texas at Dallas
