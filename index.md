@@ -3,6 +3,8 @@
 
 # Jocelyn Guerrero Lemus 
 
+![image](https://jocelyngl.github.io/JocelynGuerreroLemus/Screen%20Shot%202021-10-12%20at%206.45.28%20PM.png)
+
 ## Social Data Analytics and Research Masters student at the University of Texas at Dallas
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
