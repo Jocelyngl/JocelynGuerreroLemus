@@ -3,7 +3,7 @@
 
 # Jocelyn Guerrero Lemus 
 
-# Short bio or description (displayed in the header)
+## Short bio or description (displayed in the header)
 description: Social Data Analytics and Research Masters student at the University of Texas at Dallas
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
