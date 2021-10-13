@@ -7,46 +7,20 @@
 
 ## Social Data Analytics and Research Masters student at the University of Texas at Dallas
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
-#
-# Flags below are optional
-#
-
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
   email:gjocelyn617@gmail.com
-  facebook:
-  flickr:
+ 
   github:https://github.com/Jocelyngl
-  instagram:
+  
   linkedin:https://www.linkedin.com/in/jocelyngl/
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: 
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  
+  twitter:tba
+  
 
+# Website URL (https://jocelyngl.github.io/JocelynGuerreroLemus/)
 
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
-
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url:Jocelyngl.github.io
-
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+Github url:Jocelyngl.github.io
+#Guthub website repository (http://Jocelyngl.github.io/JocelynGuerreroLemus)
+baseurl: "JocelynGuerreroLemus"
 
 #
 # !! You don't need to change any of the configuration flags below !!
