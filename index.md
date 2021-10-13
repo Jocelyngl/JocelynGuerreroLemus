@@ -4,52 +4,23 @@
 
 ## Social Data Analytics and Research Masters student at the University of Texas at Dallas
 
-  #email:gjocelyn617@gmail.com
+  email:gjocelyn617@gmail.com
  
-  #github:https://github.com/Jocelyngl
+  github:https://github.com/Jocelyngl
   
-  #linkedin:https://www.linkedin.com/in/jocelyngl/
+  linkedin:https://www.linkedin.com/in/jocelyngl/
   
-  #twitter:tba
+  twitter:tba
   
 
 ## Website URL (https://jocelyngl.github.io/JocelynGuerreroLemus/)
-#Github url:Jocelyngl.github.io
-#Guthub website repository (http://Jocelyngl.github.io/JocelynGuerreroLemus)
-#baseurl: "JocelynGuerreroLemus"
 
-#
-# !! You don't need to change any of the configuration flags below !!
-#
+Github url:Jocelyngl.github.io
 
-permalink: /:title/
+Guthub website repository (http://Jocelyngl.github.io/JocelynGuerreroLemus)
 
-# The release of Jekyll Now that you're using
-version: v1.2.0
+baseurl: "JocelynGuerreroLemus"
 
-# Jekyll 3 now only supports Kramdown for Markdown
-kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
-  input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
 
-# Set the Sass partials directory, as we're using @imports
-sass:
-  style: :expanded # You might prefer to minify using :compressed
 
-# Use the following plug-ins
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
-# Exclude these files from your production _site
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
