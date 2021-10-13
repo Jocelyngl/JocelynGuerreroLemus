@@ -5,9 +5,13 @@
 ## Contact Information
 
 email: gjocelyn617@gmail.com
+
 github: https://github.com/Jocelyngl
+
 linkedin: https://www.linkedin.com/in/jocelyngl/ 
+
 Github url: Jocelyngl.github.io
+
 twitter: tba
 
 
