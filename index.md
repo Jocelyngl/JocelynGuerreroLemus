@@ -4,22 +4,16 @@
 
 ## Social Data Analytics and Research Masters student at the University of Texas at Dallas
 
-  email:gjocelyn617@gmail.com
+email: gjocelyn617@gmail.com
  
-  github:https://github.com/Jocelyngl
+github: https://github.com/Jocelyngl
   
-  linkedin:https://www.linkedin.com/in/jocelyngl/
+linkedin: https://www.linkedin.com/in/jocelyngl/ 
   
-  twitter:tba
+twitter: tba
   
+Github url: Jocelyngl.github.io
 
-## Website URL (https://jocelyngl.github.io/JocelynGuerreroLemus/)
-
-Github url:Jocelyngl.github.io
-
-Guthub website repository (http://Jocelyngl.github.io/JocelynGuerreroLemus)
-
-baseurl: "JocelynGuerreroLemus"
 
 
 
