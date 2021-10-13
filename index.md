@@ -1,6 +1,3 @@
-
-
-
 # Jocelyn Guerrero Lemus 
 
 ![image](https://jocelyngl.github.io/JocelynGuerreroLemus/Screen%20Shot%202021-10-12%20at%206.45.28%20PM.png)
@@ -16,7 +13,7 @@
   #twitter:tba
   
 
-# Website URL (https://jocelyngl.github.io/JocelynGuerreroLemus/)
+## Website URL (https://jocelyngl.github.io/JocelynGuerreroLemus/)
 #Github url:Jocelyngl.github.io
 #Guthub website repository (http://Jocelyngl.github.io/JocelynGuerreroLemus)
 #baseurl: "JocelynGuerreroLemus"
