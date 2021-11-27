@@ -12,7 +12,7 @@ linkedin: https://www.linkedin.com/in/jocelyngl/
 
 Github url: Jocelyngl.github.io
 
-twitter: tba
+
 
 
 
